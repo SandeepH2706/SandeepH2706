@@ -19,7 +19,7 @@
 Python | C++ | SQL
 
 **Libraries/Frameworks:**  
-Flask | Pandas | NumPy | Scikit-learn | PyTorch | TensorFlow
+Flask | Pandas | NumPy | Scikit-learn | PyTorch
 
 **Web Development:**  
 HTML | CSS | Bootstrap
@@ -28,7 +28,7 @@ HTML | CSS | Bootstrap
 SQLite | PostgreSQL
 
 **DevOps/MLOps:**  
-Docker | Git | GitHub Actions | AWS (SageMaker) | MLflow
+Docker | Git | GitHub Actions | MLflow
 
 ---
 
